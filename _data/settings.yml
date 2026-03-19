@@ -1,0 +1,30 @@
+title: "Rahul Builds"
+tagline: "Notes from a self-taught builder — AI agents, open source tools, and the stuff I figure out along the way."
+author: "Rahul"
+url: "https://rahul.is-a.dev"
+
+social:
+  - name: GitHub
+    icon: github
+    link: https://github.com/Rahulll07
+  - name: Twitter
+    icon: twitter
+    link: https://x.com/RAHUL10L
+  - name: LinkedIn
+    icon: linkedin
+    link: https://linkedin.com/in/rahulsuresh-ai
+  - name: Instagram
+    icon: instagram
+    link: https://instagram.com/rahhul.07
+
+menu:
+  - name: "Home"
+    url: ""
+  - name: "Categories"
+    url: "categories/"
+  - name: "About"
+    url: "menu/about.html"
+
+disqus:
+  comments: true
+  shortname: "rahulbuilds"
