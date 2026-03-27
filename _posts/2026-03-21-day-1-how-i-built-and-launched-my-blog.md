@@ -109,11 +109,12 @@ Then came Cloudflare.
 
 Setting up Cloudflare Pages looked simple. Connect GitHub repo, pick framework, deploy. Except Cloudflare recently merged their Workers and Pages UI into one dashboard — and the Pages option is now hidden behind a tiny link at the bottom of the screen that says *"Looking to deploy Pages? Get started."*
 
-Spent another 15 minutes clicking the wrong things before finding it.
+Spent another 15 minutes clicking the wrong things before finding it.![Cloudflare Pages - Select Repository](/assets/images/hidden-option.png)
 
 Finally got to the build settings. Selected Jekyll. Set build command to `jekyll build`. Hit deploy.
 
 **Build failed.**
+![Cloudflare Build Failed](/assets/images/build-failed.png)
 
 ```
 You have already activated google-protobuf 4.31.1,
