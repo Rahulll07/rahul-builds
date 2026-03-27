@@ -6,7 +6,7 @@ categories: [builds, meta]
 tags: [jekyll, cloudflare, github, blogging]
 ---
 
-*By Rahul Suresh | rahul-builds.pages.dev*
+*By Rahul Suresh*
 
 ---
 
